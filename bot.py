@@ -191,7 +191,7 @@ class Bot:
 
         self.log(" Getting recent submissions...")
         counter = 0
-        limit= 100
+        limit= 1000
         if self.testing:
             limit= 10
 
@@ -212,7 +212,7 @@ class Bot:
         self.log(" Getting recent comments")
 
         counter = 0
-        limit=100
+        limit=1000
         if self.testing:
             limit=10
 
