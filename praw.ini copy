@@ -1,0 +1,14 @@
+; rename this file to praw.ini
+[bot]
+client_id     = 
+client_secret = 
+username      = bot username
+password      = account password
+user_agent    = 
+
+
+[config]
+subreddit     = 
+hour_limit    = 
+membercap     = 
+testing       = 
